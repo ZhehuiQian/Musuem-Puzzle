@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musuem-Puzzle-master.Plugins", "Musuem-Puzzle-master.Plugins.csproj", "{8EBFA165-D259-9949-F2D3-8F092D3A58BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musuem-Puzzle-master", "Musuem-Puzzle-master.csproj", "{550570DC-DB27-3BDF-FA5B-F1A9D6C38F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musuem-Puzzle-master.Editor.Plugins", "Musuem-Puzzle-master.Editor.Plugins.csproj", "{2E97A693-7F39-2B0C-2698-9C9E4CFEFED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBFA165-D259-9949-F2D3-8F092D3A58BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBFA165-D259-9949-F2D3-8F092D3A58BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBFA165-D259-9949-F2D3-8F092D3A58BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBFA165-D259-9949-F2D3-8F092D3A58BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550570DC-DB27-3BDF-FA5B-F1A9D6C38F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550570DC-DB27-3BDF-FA5B-F1A9D6C38F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550570DC-DB27-3BDF-FA5B-F1A9D6C38F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550570DC-DB27-3BDF-FA5B-F1A9D6C38F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E97A693-7F39-2B0C-2698-9C9E4CFEFED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E97A693-7F39-2B0C-2698-9C9E4CFEFED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E97A693-7F39-2B0C-2698-9C9E4CFEFED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E97A693-7F39-2B0C-2698-9C9E4CFEFED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
